@@ -1,0 +1,33 @@
+
+  .fav{
+    width: 800px;
+    box-sizing: border-box;
+    border: 1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .fav img {
+    width: 20rem;
+  }
+
+  
+  
+
+  .count-inp {
+    width: 3vw;
+  }
+  .delete-from-cart {
+    width: 5vw;
+    height: 22px;
+    background-color: rgb(241, 243, 241);
+    color: #1f1c27;
+    border: 1px solid #343636;
+    border-radius: 4px;
+    margin-top: 105px;
+  
+  }
+  
+  .delete-from-cart:hover{
+    color: #212524;
+    margin-top: 200px;
+  }

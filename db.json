@@ -1,0 +1,105 @@
+{
+  "classes": [
+    {
+      "image": "https://media.istockphoto.com/photos/outdoor-evening-fitness-class-picture-id937222040?b=1&k=20&m=937222040&s=170667a&w=0&h=aLOYEj2tCdG4lWjYav6JRVlSzFbKgreQjgnY30pEwLM=",
+      "name": "vinyasa",
+      "artistsName": "Aidargfh",
+      "id": 1,
+      "classday": "friday",
+      "time": "12:00"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1026&q=80",
+      "name": "pilates",
+      "artistsName": "Ais",
+      "classday": "sun, sat",
+      "time": "10:00-11:00",
+      "id": 2
+    },
+    {
+      "image": "https://media.istockphoto.com/photos/young-healthy-african-american-girl-standing-at-home-doing-yoga-picture-id1319942651?b=1&k=20&m=1319942651&s=170667a&w=0&h=HwbVy6yJmdTbmQh1rX7O6kWSRx84P7KxDnPwSGB_9g8=",
+      "name": "pilates",
+      "artistsName": "Ais",
+      "classday": "sun, sat",
+      "time": "10:00-11:00",
+      "id": 4
+    },
+    {
+      "image": "jmnlm",
+      "name": "vinyasa",
+      "artistsName": "kjm;",
+      "classday": "jkkmp",
+      "time": "ijompk",
+      "id": 5
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "name": "pilates",
+      "artistsName": "Daria",
+      "classday": "mon, fri",
+      "time": "09:00-11:00",
+      "id": 6
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "name": "pilates",
+      "artistsName": "Daria",
+      "classday": "mon, fri",
+      "time": "09:00-11",
+      "id": 7
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1510894347713-fc3ed6fdf539?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "name": "hatha yoga",
+      "artistsName": "Rebecca",
+      "classday": "tue, thur",
+      "time": "10:00-13:00",
+      "id": 8
+    }
+  ],
+  "users": [
+    {}
+  ],
+  "comments": [
+    {
+      "text": "nice class!",
+      "owner": "shirin@gmail.com",
+      "productId": "2",
+      "time": "01.12.2021",
+      "timeSeconds": 1638347614857,
+      "id": 1
+    },
+    {
+      "text": "my favourite",
+      "owner": "shirin@gmail.com",
+      "productId": "2",
+      "time": "02.12.2021",
+      "timeSeconds": 1638383236571,
+      "id": 2
+    },
+    {
+      "text": "fvdf",
+      "owner": "shirin@gmail.com",
+      "productId": "4",
+      "time": "02.12.2021",
+      "timeSeconds": 1638383262997,
+      "id": 3
+    },
+    {
+      "text": "qwerty",
+      "owner": "shirin@gmail.com",
+      "productId": "1",
+      "time": "02.12.2021",
+      "timeSeconds": 1638383814328,
+      "id": 4
+    },
+    {
+      "text": "shirin",
+      "owner": "shirin123@gmail.com",
+      "productId": "1",
+      "time": "02.12.2021",
+      "timeSeconds": 1638429548895,
+      "id": 5
+    }
+  ]
+}
